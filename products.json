@@ -16,7 +16,7 @@
       }
     ],
     "description": "Fuji Apple is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 2,
@@ -30,7 +30,7 @@
     "discount": false,
     "tags": [],
     "description": "Gala Apple is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 3,
@@ -44,7 +44,7 @@
     "discount": false,
     "tags": [],
     "description": "Silver Banana is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 4,
@@ -63,7 +63,7 @@
       }
     ],
     "description": "Nanica Banana is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "discount": false,
     "tags": [],
     "description": "Pera Orange is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 6,
@@ -91,7 +91,7 @@
     "discount": false,
     "tags": [],
     "description": "Lime Orange is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 7,
@@ -105,7 +105,7 @@
     "discount": false,
     "tags": [],
     "description": "Palmer Mango is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 8,
@@ -124,7 +124,7 @@
       }
     ],
     "description": "Tommy Mango is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 9,
@@ -138,7 +138,7 @@
     "discount": false,
     "tags": [],
     "description": "Formosa Papaya is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 10,
@@ -152,7 +152,7 @@
     "discount": false,
     "tags": [],
     "description": "Pear is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 11,
@@ -166,7 +166,7 @@
     "discount": false,
     "tags": [],
     "description": "Green Grapes is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 12,
@@ -185,7 +185,7 @@
       }
     ],
     "description": "Strawberry is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "fruta"
+    "category": "fruit"
   },
   {
     "id": 13,
@@ -204,7 +204,7 @@
       }
     ],
     "description": "Carrot is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 14,
@@ -218,7 +218,7 @@
     "discount": false,
     "tags": [],
     "description": "Sweet Potato is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
       }
     ],
     "description": "Potato is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 16,
@@ -251,7 +251,7 @@
     "discount": false,
     "tags": [],
     "description": "Onion is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 17,
@@ -270,7 +270,7 @@
       }
     ],
     "description": "Garlic is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 18,
@@ -289,7 +289,7 @@
       }
     ],
     "description": "Cassava is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 19,
@@ -308,7 +308,7 @@
       }
     ],
     "description": "Beetroot is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 20,
@@ -327,7 +327,7 @@
       }
     ],
     "description": "Chayote is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 21,
@@ -341,7 +341,7 @@
     "discount": false,
     "tags": [],
     "description": "Pumpkin is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 22,
@@ -355,7 +355,7 @@
     "discount": false,
     "tags": [],
     "description": "Yam is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "legume"
+    "category": "vegetable"
   },
   {
     "id": 23,
@@ -369,7 +369,7 @@
     "discount": false,
     "tags": [],
     "description": "Broccoli is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 24,
@@ -383,7 +383,7 @@
     "discount": false,
     "tags": [],
     "description": "Zucchini is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 25,
@@ -397,7 +397,7 @@
     "discount": false,
     "tags": [],
     "description": "Eggplant is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 26,
@@ -411,7 +411,7 @@
     "discount": false,
     "tags": [],
     "description": "Cucumber is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 27,
@@ -425,7 +425,7 @@
     "discount": false,
     "tags": [],
     "description": "Green Beans is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 28,
@@ -439,7 +439,7 @@
     "discount": false,
     "tags": [],
     "description": "Cauliflower is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 29,
@@ -453,7 +453,7 @@
     "discount": false,
     "tags": [],
     "description": "Red Pepper is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 30,
@@ -467,7 +467,7 @@
     "discount": false,
     "tags": [],
     "description": "Yellow Pepper is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "vegetais"
+    "category": "vegetable"
   },
   {
     "id": 31,
@@ -481,7 +481,7 @@
     "discount": false,
     "tags": [],
     "description": "Crispy Lettuce is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 32,
@@ -495,7 +495,7 @@
     "discount": false,
     "tags": [],
     "description": "American Lettuce is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 33,
@@ -509,7 +509,7 @@
     "discount": false,
     "tags": [],
     "description": "Spinach is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 34,
@@ -523,7 +523,7 @@
     "discount": false,
     "tags": [],
     "description": "Arugula is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 35,
@@ -537,7 +537,7 @@
     "discount": false,
     "tags": [],
     "description": "Kale is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 36,
@@ -551,7 +551,7 @@
     "discount": false,
     "tags": [],
     "description": "Parsley is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 37,
@@ -565,7 +565,7 @@
     "discount": false,
     "tags": [],
     "description": "Chives is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 38,
@@ -579,7 +579,7 @@
     "discount": false,
     "tags": [],
     "description": "Coriander is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 39,
@@ -593,7 +593,7 @@
     "discount": false,
     "tags": [],
     "description": "Mint is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 40,
@@ -607,7 +607,7 @@
     "discount": false,
     "tags": [],
     "description": "Basil is carefully selected to ensure maximum freshness and quality. It is ideal for daily consumption, healthy recipes, and balanced nutrition, providing excellent taste and nutritional value.",
-    "category": "hortalicias"
+    "category": "garden"
   },
   {
     "id": 41,
