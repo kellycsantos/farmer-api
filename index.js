@@ -1,9 +1,11 @@
 const express = require('express');
+const cors = require('cors')
 const app = express()
 const PORT = 3001
 
 const products = require('./products.json')
 
+app.use(cors())
 
 app.get('/products', (req,res) => {
     const {name, category} = req.query;
